@@ -1,4 +1,4 @@
-package hongondJava.part12_thread;
+package hongongJava.part12_thread;
 
 import java.awt.Toolkit;
 

@@ -1,4 +1,4 @@
-package hongondJava.part14_IO_Stream;
+package hongongJava.part14_IO_Stream;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

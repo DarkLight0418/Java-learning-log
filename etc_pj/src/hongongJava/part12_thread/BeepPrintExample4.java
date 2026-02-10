@@ -1,4 +1,4 @@
-package hongondJava.part12_thread;
+package hongongJava.part12_thread;
 
 public class BeepPrintExample4 {
     public static void main(String[] args) {
