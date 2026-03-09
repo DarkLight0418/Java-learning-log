@@ -1,7 +1,6 @@
 package voice_quiz_game_project.voice_quiz_game.game;
 
 import voice_quiz_game_project.voice_quiz_game.recognizer.SpeechRecognizer;
-import org.apache.commons.text.similarity.LevenshteinDistance;
 
 import java.util.List;
 
