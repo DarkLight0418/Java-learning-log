@@ -1,3 +1,5 @@
+package Test;
+
 public class CommentJava {
     public static void main(String[] args) {
         System.out.println("Hello Java 1");  // hello java1 출력입니다
