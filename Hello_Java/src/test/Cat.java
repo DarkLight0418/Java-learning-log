@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 public class Cat {
     // 전역 변수

@@ -1,4 +1,4 @@
-package doitJavaIntro.javaFiles.chapter2;
+package doitJavaIntro.chapter2;
 
 public class CharacterEx2 {
     public static void main(String[] args) {

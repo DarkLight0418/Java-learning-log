@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 public class Kim {
     public void name(String name) {

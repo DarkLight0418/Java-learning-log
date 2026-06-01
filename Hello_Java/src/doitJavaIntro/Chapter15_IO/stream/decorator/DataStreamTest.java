@@ -10,7 +10,7 @@ public class DataStreamTest {
             dos.writeChar('A');
             dos.writeInt(10);
             dos.writeFloat(3.14f);
-            dos.writeUTF("Test");
+            dos.writeUTF("test");
         } catch (IOException ie) {
             ie.printStackTrace();
         }

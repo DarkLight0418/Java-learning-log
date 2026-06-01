@@ -1,6 +1,6 @@
 package doitJavaIntro.chapter7_Array.No3_ArrayListClass;
 
-import chapter7_Array.No2_objectArray.Book;
+import doitJavaIntro.chapter7_Array.No2_objectArray.Book;
 
 import java.util.ArrayList;
 
