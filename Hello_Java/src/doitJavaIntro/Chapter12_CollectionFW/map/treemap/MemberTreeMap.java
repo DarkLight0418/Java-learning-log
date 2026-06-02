@@ -2,7 +2,7 @@ package doitJavaIntro.Chapter12_CollectionFW.map.treemap;
 
 // 필요한 클래스 import
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 import java.util.Iterator;
 import java.util.TreeMap;

@@ -1,6 +1,6 @@
 package doitJavaIntro.Chapter12_CollectionFW.hashset;
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 public class MemberHashSetTest {
     public static void main(String[] args) {

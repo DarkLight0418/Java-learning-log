@@ -1,6 +1,6 @@
 package doitJavaIntro.Chapter12_CollectionFW.collection.arraylist;
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 import java.util.ArrayList;
 import java.util.Iterator;

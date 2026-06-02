@@ -1,6 +1,6 @@
 package doitJavaIntro.Chapter12_CollectionFW.collection.arraylist;
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 public class MemberArrayListTest {
     public static void main(String[] args) {

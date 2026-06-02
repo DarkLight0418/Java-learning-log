@@ -1,6 +1,6 @@
 package doitJavaIntro.Chapter12_CollectionFW.treeset;
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 import java.util.Iterator;
 import java.util.TreeSet;

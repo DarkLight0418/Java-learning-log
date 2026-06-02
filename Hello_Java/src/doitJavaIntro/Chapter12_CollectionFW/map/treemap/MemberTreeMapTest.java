@@ -1,6 +1,6 @@
 package doitJavaIntro.Chapter12_CollectionFW.map.treemap;
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 public class MemberTreeMapTest {
     public static void main(String[] args) {

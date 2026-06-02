@@ -1,6 +1,6 @@
 package doitJavaIntro.Chapter12_CollectionFW.hashset;
 
-import Chapter12_CollectionFW.collection.Member;
+import doitJavaIntro.Chapter12_CollectionFW.collection.Member;
 
 import java.util.HashSet;
 import java.util.Iterator;
