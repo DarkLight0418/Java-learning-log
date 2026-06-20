@@ -1,4 +1,4 @@
-package example.exception;
+package classExample.exception;
 
 public class DivideByZeroException extends Exception {
     public DivideByZeroException() {

@@ -1,4 +1,4 @@
-package example;
+package classExample;
 
 class MyShape {
     public void draw() {

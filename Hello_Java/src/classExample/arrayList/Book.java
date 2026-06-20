@@ -1,4 +1,4 @@
-package example.arrayList;
+package classExample.arrayList;
 
 public class Book {
     private String title;
